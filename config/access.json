@@ -1,0 +1,48 @@
+{
+    "USUARIO" : [
+        "login",
+        "news",
+        "",
+        "new",
+        "categories"
+    ],
+
+    "EDITOR" : [
+        "pending-news",
+        "review-new",
+        "categories-edit",
+        "user",
+        "users",
+        "news",
+        "",
+        "new",
+        "categories"
+    ],
+
+    "REPORTERO" : [
+        "user",
+        "write-new",
+        "edit-new",
+        "pending-news",
+        "login",
+        "news",
+        "",
+        "new",
+        "categories"
+    ],
+
+    "REGISTRADO" : [
+        "user",
+        "news",
+        "",
+        "new",
+        "categories"
+    ],
+
+    "default-sites" : {
+        "USUARIO" : "news",
+        "EDITOR" : "pending-news",
+        "REPORTERO" : "pending-news",
+        "REGISTRADO" : "news"
+    }
+}
